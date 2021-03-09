@@ -14,3 +14,10 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.content {
+  margin: 0 auto;
+  background-image: url(/movies.jpg);
+  background-position: center;
+  background-size: cover;
+}
